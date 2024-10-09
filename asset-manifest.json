@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Binance-websocket/static/css/main.e6c13ad2.css",
+    "main.js": "/Binance-websocket/static/js/main.bda712c4.js",
+    "static/js/453.5c07037c.chunk.js": "/Binance-websocket/static/js/453.5c07037c.chunk.js",
+    "index.html": "/Binance-websocket/index.html",
+    "main.e6c13ad2.css.map": "/Binance-websocket/static/css/main.e6c13ad2.css.map",
+    "main.bda712c4.js.map": "/Binance-websocket/static/js/main.bda712c4.js.map",
+    "453.5c07037c.chunk.js.map": "/Binance-websocket/static/js/453.5c07037c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bda712c4.js"
+  ]
+}
